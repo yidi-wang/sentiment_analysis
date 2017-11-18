@@ -4,11 +4,11 @@
 
 This project requires **Python 2.7** and the following Python libraries installed:
 
-- [NLTK] (http://www.nltk.org/)
+- [NLTK](http://www.nltk.org/)
 - [re](https://docs.python.org/2/library/re.html)
-- [scikit-learn] (http://scikit-learn.org/stable/)
-- [keras] (https://keras.io/)
-- [matplotlib] (http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
+- [keras](https://keras.io/)
+- [matplotlib](http://matplotlib.org/)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html).
 
